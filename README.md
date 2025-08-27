@@ -3,7 +3,7 @@
 </p>
  
  ### Hi, There I’m Nan (Neil) 👋
-![Visitor Count](https://komarev.com/ghpvc/?username=NanSang2000&color=orange&style=for-the-badge&label=My&abbreviated=true) Visitor.
+![Visitor Count](https://komarev.com/ghpvc/?username=Neilouo&color=orange&style=for-the-badge&label=My&abbreviated=true) Visitor.
  - 👀 I’m interested in AIGC.
  - 🌱 I’m currently learning `unity` , `NPL` , `TypeScript` , and `React.js`.                 
  - 🔭 I’m currently focusing on Data processing, especially algorism.
@@ -23,18 +23,18 @@
 
  
 
-<img align='center' src='https://github.com/NanSang2000/NanSang2000/blob/output/github-contribution-grid-snake.svg' width='900"'>
+<img align='center' src='https://github.com/Neilouo/Neilouo/blob/output/github-contribution-grid-snake.svg' width='900"'>
 
  🎃 My Projects
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NanSang2000&repo=XiaoAiTimetable)](https://github.com/NanSang2000/XiaoAiTimetable)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NanSang2000&repo=Douyin_project_server)](https://github.com/NanSang2000/Douyin_project_server)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NanSang2000&repo=hackethon-battleship)](https://github.com/NanSang2000/hackethon-battleship)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NanSang2000&repo=DotCraft)](https://github.com/NanSang2000/DotCraft)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neilouo&repo=XiaoAiTimetable)](https://github.com/NanSang2000/XiaoAiTimetable)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neilouo&repo=Douyin_project_server)](https://github.com/NanSang2000/Douyin_project_server)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neilouo&repo=hackethon-battleship)](https://github.com/NanSang2000/hackethon-battleship)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neilouo&repo=DotCraft)](https://github.com/NanSang2000/DotCraft)
  
  ⚡ Projects I've contributed to 
  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NanSang2000&repo=uom-study-spaces)](https://github.com/NanSang2000/uom-study-spaces)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neilouo&repo=uom-study-spaces)](https://github.com/NanSang2000/uom-study-spaces)
   
  <div align="center">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
