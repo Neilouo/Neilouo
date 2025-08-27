@@ -2,7 +2,7 @@
   <img src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif' width='15"'><br>
 </p>
  
- ### Hi, There I’m Nan 👋
+ ### Hi, There I’m Nan (Neil) 👋
 ![Visitor Count](https://komarev.com/ghpvc/?username=NanSang2000&color=orange&style=for-the-badge&label=My&abbreviated=true) Visitor.
  - 👀 I’m interested in AIGC.
  - 🌱 I’m currently learning `unity` , `NPL` , `TypeScript` , and `React.js`.                 
