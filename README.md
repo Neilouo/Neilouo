@@ -7,7 +7,7 @@
  - 👀 I’m interested in AIGC.
  - 🌱 I’m currently learning `unity` , `NPL` , `TypeScript` , and `React.js`.                 
  - 🔭 I’m currently focusing on Data processing, especially algorism.
- - 📫 reach me Neil0uu0@gmail.com
+ - 📫 reach me Neilouuo@gmail.com
  - 📖 I'm reading  ❤️
     + [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
     + [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.dddcommunity.org/book/evans_2003/)
