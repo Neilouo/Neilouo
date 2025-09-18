@@ -4,7 +4,7 @@
  
  ### Hi, There I’m Nan (Neil) 👋
 ![Visitor Count](https://komarev.com/ghpvc/?username=Neilouo&color=orange&style=for-the-badge&label=My&abbreviated=true) Visitor.
- - 👀 I’m interested in AIGC.
+ - 👀 I’m interested in AI Agent.
  - 🌱 I’m currently learning `unity` , `NPL` , `TypeScript` , and `React.js`.                 
  - 🔭 I’m currently focusing on Data processing, especially algorism.
  - 📫 reach me Neilouuo@gmail.com
