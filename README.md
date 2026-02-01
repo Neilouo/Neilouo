@@ -23,7 +23,7 @@
 
  
 
-<img align='center' src='https://github.com/Neilouo/Neilouo/blob/output/github-contribution-grid-snake.svg' width='900"'>
+<img align='center' src='https://github.com/Neilouo/blob/output/github-contribution-grid-snake.svg' width='900"'>
 
  🎃 My Projects
 
