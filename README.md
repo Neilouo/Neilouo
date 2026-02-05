@@ -25,16 +25,6 @@
 <img align="center" src="https://raw.githubusercontent.com/Neilouo/Neilouo/output/snake.svg" width="900">
 
 
- 🎃 My Projects
-
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neilouo&repo=XiaoAiTimetable)](https://github.com/Neilouo/XiaoAiTimetable)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neilouo&repo=Douyin_project_server)](https://github.com/Neilouo/Douyin_project_server)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neilouo&repo=hackethon-battleship)](https://github.com/Neilouo/hackethon-battleship)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neilouo&repo=DotCraft)](https://github.com/Neilouo/DotCraft)
- 
- ⚡ Projects I've contributed to 
- 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neilouo&repo=uom-study-spaces)](https://github.com/Neilouo/uom-study-spaces)
   
  <div align="center">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
