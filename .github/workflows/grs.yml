@@ -2,27 +2,40 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 3 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # 每天 UTC 00:00 定时执行
+  workflow_dispatch:     # 手动触发
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
-      - name: Generate stats card
+    permissions:
+      contents: write    # 允许推送更新到 repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate GitHub stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit cards
+      - name: Generate Top Languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=buefy&hide_border=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit SVG files
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
+          git commit -m "Update README stats cards" || exit 0
           git push
