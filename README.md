@@ -17,10 +17,10 @@
     + [Walden](https://en.wikipedia.org/wiki/Walden)
     + [Silent_majority](https://en.wikipedia.org/wiki/Silent_majority)
 
- |[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=neilouo)](https://github.com/stats-organization/github-stats-extended)|
+
 | --- | --- |
 
-
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=neilouo)](https://github.com/stats-organization/github-stats-extended)
  
 <img align="center" src="https://raw.githubusercontent.com/Neilouo/Neilouo/output/snake.svg" width="900">
 
