@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/93431318-e3e5-4490-be92-94d973806365" width="15" /> </br>
+  <img src="https://github.com/user-attachments/assets/93431318-e3e5-4490-be92-94d973806365" width="300" /> </br>
 </p>
  
 # Hi, There — I’m Nan (Neil) 👋
