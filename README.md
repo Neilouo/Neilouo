@@ -17,7 +17,7 @@
     + [Walden](https://en.wikipedia.org/wiki/Walden)
     + [Silent_majority](https://en.wikipedia.org/wiki/Silent_majority)
 
- | <img align="center" src="./profile/stats.svg" alt="Neilouo GitHub stats" /> | <img align="center" src="./profile/top-langs.svg" alt="Top languages" /> |
+ | https://github-stats-extended.vercel.app/api?username=Neilouo&theme=radical |
 | --- | --- |
 
 
