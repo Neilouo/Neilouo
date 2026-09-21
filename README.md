@@ -4,7 +4,7 @@
  
 # Hi, There — I’m Nan (Neil) 👋
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Neilouo&color=orange&style=for-the-badge&label=My&abbreviated=true) Visitor
+![Visitor Count](https://komarev.com/ghpvc/?username=Neilouo&color=orange&style=for-the-badge&label=My&abbreviated=true) **Visitor**
 
 - 👀 I’m interested in AI Agents.
 - 🌱 I’m currently learning `Unity`, `NLP`, `TypeScript`, and `React.js`.
